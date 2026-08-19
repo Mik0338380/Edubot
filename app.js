@@ -859,10 +859,10 @@ setActiveMenu("menu-materi");
 </section>
 
 <div class="text-center my-4">
-    <img src="assets/images/assets/file-folder.png"
-         class="img-fluid rounded shadow"
-         style="max-width:750px; width:100%;"
-         alt="Ilustrasi File dan Folder">
+    <img src="file-folder.png"
+     class="img-fluid rounded shadow"
+     style="max-width:750px; width:100%;"
+     alt="Ilustrasi File dan Folder">
 
     <p class="text-muted mt-2">
     Gambar 2. Ilustrasi hubungan antara file, folder, dan subfolder.
