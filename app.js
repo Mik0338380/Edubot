@@ -2375,7 +2375,7 @@ setActiveMenu("menu-materi");
 <div class="text-center my-5">
 
     <img
-        src="assets/images/presentasi-sederhana.png.png"
+        src="presentasi-sederhana.png.png"
         class="img-fluid rounded shadow"
         style="max-width:900px; width:100%;"
         alt="Contoh Presentasi Sederhana">
