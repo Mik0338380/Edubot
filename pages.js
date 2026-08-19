@@ -32,7 +32,7 @@ function showKomponen(nama){
     isi: `
 
     <div class="text-center mb-3">
-        <img src="assets/images/menu.png"
+        <img src="menu.png"
              class="img-fluid rounded shadow"
              style="max-height:300px;"
              alt="Menu Microsoft Word">
@@ -63,7 +63,7 @@ function showKomponen(nama){
     isi: `
 
     <div class="text-center mb-3">
-        <img src="assets/images/ikon.png"
+        <img src="ikon.png"
              class="img-fluid rounded shadow"
              style="max-height:300px;"
              alt="Ikon Microsoft Word">
@@ -94,7 +94,7 @@ function showKomponen(nama){
     isi: `
 
     <div class="text-center mb-3">
-        <img src="assets/images/area.png"
+        <img src="area.png"
              class="img-fluid rounded shadow"
              style="max-height:300px;"
              alt="Area Kerja Microsoft Word">
@@ -125,7 +125,7 @@ function showKomponen(nama){
     isi: `
 
     <div class="text-center mb-3">
-        <img src="assets/images/scroll.png"
+       <img src="scroll.png"
              class="img-fluid rounded shadow"
              style="max-height:300px;"
              alt="Bilah Gulir Microsoft Word">
@@ -154,7 +154,7 @@ function showKomponen(nama){
     isi: `
 
     <div class="text-center mb-3">
-        <img src="assets/images/status.png"
+        <img src="status.png"
              class="img-fluid rounded shadow"
              style="max-height:300px;"
              alt="Bilah Status Microsoft Word">
