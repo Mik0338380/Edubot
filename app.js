@@ -860,7 +860,7 @@ setActiveMenu("menu-materi");
 
 <div class="text-center my-4">
     <img 
-    src="file-folder.png.png"
+    src="file-folder.png"
          class="img-fluid rounded shadow"
          style="max-width:750px; width:100%;"
          alt="Ilustrasi File dan Folder">
