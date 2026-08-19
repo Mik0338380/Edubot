@@ -31,12 +31,12 @@ function showKomponen(nama){
     judul: "📋 Menu",
     isi: `
 
-    <div class="text-center mb-3">
-        <img src="menu.png">
-             class="img-fluid rounded shadow"
-             style="max-height:300px;"
-             alt="Menu Microsoft Word">
-    </div>
+  <div class="text-center mb-3">
+    <img src="menu.png"
+         class="img-fluid rounded shadow"
+         style="max-height:300px;"
+         alt="Menu Microsoft Word">
+</div>
 
     <p>
         <strong>Menu</strong> adalah kumpulan perintah yang digunakan untuk mengelola dokumen dan menjalankan berbagai fungsi pada Microsoft Word.
@@ -62,12 +62,12 @@ function showKomponen(nama){
     judul: "🖼️ Ikon",
     isi: `
 
-    <div class="text-center mb-3">
-        <img src="ikon.png">
-             class="img-fluid rounded shadow"
-             style="max-height:300px;"
-             alt="Ikon Microsoft Word">
-    </div>
+   <div class="text-center mb-3">
+    <img src="ikon.png"
+         class="img-fluid rounded shadow"
+         style="max-height:300px;"
+         alt="Ikon Microsoft Word">
+</div>
 
     <p>
         <strong>Ikon</strong> adalah gambar kecil yang mewakili suatu perintah sehingga pengguna dapat menjalankan fitur dengan cepat tanpa harus membuka menu.
@@ -93,12 +93,12 @@ function showKomponen(nama){
     judul: "🪟 Area Kerja",
     isi: `
 
-    <div class="text-center mb-3">
-        <img src="area.png">
-             class="img-fluid rounded shadow"
-             style="max-height:300px;"
-             alt="Area Kerja Microsoft Word">
-    </div>
+   <div class="text-center mb-3">
+    <img src="area.png"
+         class="img-fluid rounded shadow"
+         style="max-height:300px;"
+         alt="Area Kerja Microsoft Word">
+</div>
 
     <p>
         <strong>Area Kerja</strong> adalah bagian utama pada Microsoft Word yang digunakan untuk mengetik, mengedit, dan menyusun isi dokumen.
@@ -124,13 +124,12 @@ function showKomponen(nama){
     judul: "📜 Bilah Gulir",
     isi: `
 
-    <div class="text-center mb-3">
-       <img src="scroll.png">
-             class="img-fluid rounded shadow"
-             style="max-height:300px;"
-             alt="Bilah Gulir Microsoft Word">
-    </div>
-
+  <div class="text-center mb-3">
+    <img src="scroll.png"
+         class="img-fluid rounded shadow"
+         style="max-height:300px;"
+         alt="Bilah Gulir Microsoft Word">
+</div>
     <p>
         <strong>Bilah Gulir (Scroll Bar)</strong> digunakan untuk menggeser tampilan dokumen sehingga pengguna dapat melihat bagian dokumen yang belum terlihat pada layar.
     </p>
@@ -154,11 +153,11 @@ function showKomponen(nama){
     isi: `
 
     <div class="text-center mb-3">
-        <img src="status.png">
-             class="img-fluid rounded shadow"
-             style="max-height:300px;"
-             alt="Bilah Status Microsoft Word">
-    </div>
+    <img src="status.png"
+         class="img-fluid rounded shadow"
+         style="max-height:300px;"
+         alt="Bilah Status Microsoft Word">
+</div>
 
     <p>
         <strong>Bilah Status</strong> adalah bagian yang berada di bawah jendela Microsoft Word dan berfungsi menampilkan informasi tentang dokumen yang sedang dikerjakan.
