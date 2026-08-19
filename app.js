@@ -264,11 +264,11 @@ pageContent.innerHTML = `
 
     <div class="card-body text-center">
 
-        <img
-           src="antarmuka-word.png.png"
-            class="img-fluid rounded"
-            style="max-width:900px;"
-            alt="Contoh Antarmuka Microsoft Word">
+       <img
+    src="antarmuka-word.png.png"
+    class="img-fluid rounded"
+    style="max-width:900px;"
+    alt="Contoh Antarmuka Microsoft Word">
 
         <p class="text-muted mt-3 mb-0">
             <em>Gambar 1. Contoh antarmuka aplikasi Microsoft Word.</em>
