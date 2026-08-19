@@ -265,7 +265,7 @@ pageContent.innerHTML = `
     <div class="card-body text-center">
 
         <img
-            src="antarmuka-word.png.png"
+           src="antarmuka-word.png.png"
             class="img-fluid rounded"
             style="max-width:900px;"
             alt="Contoh Antarmuka Microsoft Word">
