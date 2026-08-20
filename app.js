@@ -5043,6 +5043,104 @@ function showTentang(){
 
             </div>
 
+
+            <!-- PETUNJUK PENGGUNAAN -->
+
+            <div class="hero-card mt-4">
+
+                <h3 class="fw-bold text-primary">
+                    📖 Petunjuk Penggunaan
+                </h3>
+
+                <div class="mt-4">
+
+                    <div class="mb-4">
+
+                        <h5 class="fw-bold">
+                            1. 🏠 Beranda
+                        </h5>
+
+                        <p class="mb-0">
+                            Gunakan menu Beranda untuk melihat informasi
+                            pembelajaran dan memulai kegiatan belajar.
+                        </p>
+
+                    </div>
+
+                    <div class="mb-4">
+
+                        <h5 class="fw-bold">
+                            2. 📚 Materi
+                        </h5>
+
+                        <p class="mb-0">
+                            Pilih menu Materi untuk melihat dan mempelajari
+                            materi pembelajaran yang tersedia.
+                        </p>
+
+                    </div>
+
+                    <div class="mb-4">
+
+                        <h5 class="fw-bold">
+                            3. 🤖 EduBot
+                        </h5>
+
+                        <p class="mb-0">
+                            Tekan tombol EduBot untuk membuka asisten belajar.
+                            Kamu dapat memilih pertanyaan yang tersedia atau
+                            mengetik pertanyaan pada kolom chat.
+                        </p>
+
+                    </div>
+
+                    <div class="mb-4">
+
+                        <h5 class="fw-bold">
+                            4. 📈 Progress Belajar
+                        </h5>
+
+                        <p class="mb-0">
+                            Progress belajar menunjukkan persentase materi
+                            yang telah diselesaikan.
+                        </p>
+
+                    </div>
+
+                    <div class="mb-4">
+
+                        <h5 class="fw-bold">
+                            5. 📝 Latihan
+                        </h5>
+
+                        <p class="mb-0">
+                            Pilih menu Latihan untuk mengerjakan soal.
+                            Setelah selesai, periksa jawaban untuk melihat
+                            nilai dan pembahasan.
+                        </p>
+
+                    </div>
+
+                    <div>
+
+                        <h5 class="fw-bold">
+                            6. 🔄 Ulangi Latihan
+                        </h5>
+
+                        <p class="mb-0">
+                            Gunakan tombol Ulangi Latihan jika ingin
+                            mengerjakan kembali soal latihan.
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <!-- TUJUAN EDUSMART -->
+
             <div class="alert alert-primary mt-4">
 
                 <h5 class="fw-bold">
