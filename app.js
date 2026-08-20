@@ -4943,7 +4943,7 @@ function showLatihan(){
 }
 
 function showTentang(){
-
+    
     closeEduBot();
 
     setActiveMenu("menu-tentang");
